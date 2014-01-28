@@ -3303,7 +3303,7 @@ class appDevDebugProjectContainer extends Container
             'kernel.root_dir' => '/Users/ronald/Projects/PHP/tests/authentication/app',
             'kernel.environment' => 'dev',
             'kernel.debug' => true,
-            'kernel.name' => 'app',
+            'kernel.name' => 'ap_',
             'kernel.cache_dir' => '/Users/ronald/Projects/PHP/tests/authentication/app/cache/dev',
             'kernel.logs_dir' => '/Users/ronald/Projects/PHP/tests/authentication/app/logs',
             'kernel.bundles' => array(
